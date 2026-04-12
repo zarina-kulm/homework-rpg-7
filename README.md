@@ -56,3 +56,12 @@ See `QUICKSTART.md` for IDE setup and detailed instructions.
 - `ASSIGNMENT.md` — full requirements, pattern contracts, and grading rubric
 - `STUDENT_CHECKLIST.md` — phase-by-phase progress tracker
 - `FAQ.md` — answers to common questions about the patterns and implementation
+
+### Strategy
+![Startegy](diagram/StrategyPattern.png)
+
+### Observer
+![Observer](diagram/ObserverPattern.png)
+
+## Ссылка на код
+https://github.com/zarina-kulm/homework-rpg-7
